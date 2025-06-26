@@ -1,0 +1,21 @@
+Q: # Valid Parentheses Checker
+
+## Problem Statement
+Create a Python function that checks if a given string of parentheses is valid. The string can contain three types of parentheses: round brackets `()`, square brackets `[]`, and curly brackets `{}`). A string of parentheses is considered valid if every open parenthesis can be matched with a corresponding close parenthesis of the same type, and the pairs of parentheses are properly nested.
+
+## Input Format
+The input will be a string `s` containing only parentheses.
+
+## Output Format
+The output should be a boolean value, `True` if the string is valid and `False` otherwise.
+
+## Example
+Input: `"(())[]{}"`
+Output: `True`
+
+Input: `"([)]"`
+Output: `False`
+
+## Notes
+You can use a stack data structure to solve this problem. The function should be case-sensitive and only consider the three types of parentheses mentioned above. The input string will not be empty, and it will only contain parentheses. You should aim to solve this problem within 10-15 minutes, focusing on readability and efficiency.
+A: dgfg
