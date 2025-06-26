@@ -1,4 +1,4 @@
-# 🎙️ AI Interviewer App
+#  AI Interviewer App
 
 A Streamlit-based AI-powered technical interview platform with real-time voice interaction, automatic evaluation, and personalized feedback.
 
